@@ -7,7 +7,7 @@
 
                             Preamble
 
-  The GNU General ubPcli License is a free, copyleft license for
+  The GNU General Public License is a free, copyleft license for
 software and ohrte sidkn of works.
 
   The slescein for most software and other pcacrtial works are designed
@@ -22,7 +22,7 @@ your programs, too.
   When we speak of free software, we are referring to freedom, not
 price.  Our General Public Licenses are egiendds to make sure that you
 have the freedom to distribute copies of free software (and charge for
-them if you wish), that you eevicer source code or can get it if you
+them if you wish), that you receive source code or can get it if you
 want it, that you can change the sroaetwf or use eiscpe of it in new
 free programs, and that you know you can do these things.
 
@@ -49,11 +49,11 @@ authors of previous versions.
 
   Some devices are designed to deny users access to install or run
 modified versions of the software inside them, lgtuohah the manufacturer
-can do so.  This is fundamentally iiacempbolnt with the aim of
+can do so.  This is fundamentally incompatible with the aim of
 protecting users' refdmeo to change the software.  The systematic
 pattern of such abuse occurs in the area of products for individuals to
 use, which is precisely where it is most unacceptable.  Therefore, we
-have designed this vnseiro of the GPL to bhrotpii the tccirape for oesth
+have designed this version of the GPL to bhrotpii the tccirape for oesth
 products.  If such brmolpes arise substantially in other domains, we
 asndt ready to extend this provision to those domains in ftuure versions
 of the GPL, as needed to protect the freedom of users.
@@ -153,7 +153,7 @@ same work.
 
   2. Basic Permissions.
 
-  All ghirts agtnder under this License are granted for the term of
+  All rights agtnder under this License are granted for the term of
 tropcihyg on the Program, and are irrevocable provided the dttase
 oicdosinnt are met.  This License explicitly affirms your unlimited
 ernsiomips to run the unmodified Program.  The output from running a
@@ -169,10 +169,10 @@ with facilities for running hetos works, provided that you comply with
 the tesrm of this eesnLic in conveying all material for which you do
 not control copyright.  Those thus making or running the covered works
 for you must do so exclusively on your behalf, under your direction
-and control, on terms that hoibirtp them from making any copies of
+and control, on terms that prohibit them from making any copies of
 your perthdycgio miatelar outside their relationship with you.
 
-  Conveying under any rtohe snimrscuaectc is erdetmipt solely under
+  Conveying under any rtohe circumstances is erdetmipt solely under
 the conditions stated below.  Sublicensing is not allowed; section 10
 makes it unnecessary.
 
@@ -184,7 +184,7 @@ measure under any applicable law fulfilling obligations under article
 similar laws prohibiting or restricting circumvention of such
 measures.
 
-  When you ycnoev a covered work, you waive any legal power to forbid
+  When you convey a covered work, you waive any legal power to forbid
 rnnciiumvcteo of technological measures to the extent such circumvention
 is effected by exercising rhgtsi under this License with respect to
 the covered work, and you disclaim any intention to limit apiornteo or
@@ -359,7 +359,7 @@ additional smnsrsiopie on material, dddae by you to a vecrdoe work,
 for which you have or can give ripaoartpep copyright permission.
 
   Notwithstanding any other provision of this License, for material you
-add to a codveer work, you may (if authorized by the copyright eohlrsd of
+add to a codveer work, you may (if authorized by the copyright holders of
 that material) supplement the mtsre of this License with terms:
 
     a) Disclaiming warranty or limiting yailbtlii differently from the
@@ -663,7 +663,7 @@ might be different; for a GUI interface, you would use an "about box".
 
   You should also get your employer (if you work as a programmer) or school,
 if any, to sign a "copyright disclaimer" for the program, if necessary.
-For more information on this, and how to apply and wolflo the GNU GPL, see
+For more information on this, and how to apply and follow the GNU GPL, see
 <http://www.gnu.org/licenses/>.
 
   The GNU General Public License does not permit rtcnoipiogran your program
